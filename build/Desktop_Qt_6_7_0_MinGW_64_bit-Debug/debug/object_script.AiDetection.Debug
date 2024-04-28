@@ -1,0 +1,14 @@
+debug/inference.o
+debug/main.o
+debug/widget.o
+debug/leftwidget.o
+debug/displayshow.o
+debug/bottomwidget.o
+debug/config.o
+debug/work.o
+debug/qrc_res.o
+debug/moc_widget.o
+debug/moc_leftwidget.o
+debug/moc_displayshow.o
+debug/moc_bottomwidget.o
+debug/moc_work.o

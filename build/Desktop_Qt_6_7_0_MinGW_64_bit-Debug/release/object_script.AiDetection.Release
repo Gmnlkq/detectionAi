@@ -1,0 +1,14 @@
+release/inference.o
+release/main.o
+release/widget.o
+release/leftwidget.o
+release/displayshow.o
+release/bottomwidget.o
+release/config.o
+release/work.o
+release/qrc_res.o
+release/moc_widget.o
+release/moc_leftwidget.o
+release/moc_displayshow.o
+release/moc_bottomwidget.o
+release/moc_work.o
